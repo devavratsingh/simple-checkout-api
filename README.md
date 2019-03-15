@@ -49,10 +49,25 @@ These files not only tested on localhost but also tested on my digital ocean ser
 
 * We're going to have a 3 for 2 deal on Apple TVs. For example, if you buy 3 units of Apple TVs, you will only pay for the price of 2 units.
 
-![alt text](https://github.com/devavratsingh/simple-checkout-api/blob/master/images/req-1-1.jpg  "Simple Checkout System First Task POSTMAN")
-![alt text](https://github.com/devavratsingh/simple-checkout-api/blob/master/images/req-1-2.jpg "Simple Checkout System First Task Command Prompt")
+![alt text](https://github.com/devavratsingh/simple-checkout-api/blob/master/images/req-1-1.jpg  "Simple Checkout System First: Task POSTMAN")
+![alt text](https://github.com/devavratsingh/simple-checkout-api/blob/master/images/req-1-2.jpg "Simple Checkout System First: Task Command Prompt")
 
 I have added three quantities together. but you can check it by adding single quantity 3 times. it show the price of 2 units.
+
+* The brand new Super iPad will have a bulk discount applied, where the price will drop to $499.99 each, if someone buys more than 4 units.
+
+![alt text](https://github.com/devavratsingh/simple-checkout-api/blob/master/images/task-2-1.jpg  "Simple Checkout System Second: Task POSTMAN")
+![alt text](https://github.com/devavratsingh/simple-checkout-api/blob/master/images/task-2-2.jpg "Simple Checkout System Second: Task Command Prompt")
+
+Bulk discount on ipad is applied. if user add more than 4 ipad in cart then the bulk discount will applicable.
+
+* We will bundle in a VGA adapter free of charge with every MacBook Pro sold.
+
+![alt text](https://github.com/devavratsingh/simple-checkout-api/blob/master/images/task-3-1.jpg  "Simple Checkout System Second: Task POSTMAN")
+![alt text](https://github.com/devavratsingh/simple-checkout-api/blob/master/images/task-3-2.jpg "Simple Checkout System Second: Task Command Prompt")
+
+I have tested it on my digital ocean server too. Thanks to Digi-X team for giving me this opportunity.
+
 
 
 
