@@ -31,10 +31,15 @@ I have used a POSTMAN to test this API.
 ### b. We will use the password hash. 
 there are many hashing algorithms e.g MD5, SHA, bcrypt etc. they are really effective for password security.
 I have used in my project of face detection api. It is applied on two tables one is for user table where user registration details are saved & second one is login table where i have save hash password of user & there email. when user is signed in he will add there email & password which are secure by hash.
+
 here are the example github link of the project:
+
 [facedetection api server](https://github.com/devavratsingh/facerecognition-api-server)
+
 [facedetection frontend](https://github.com/devavratsingh/face-recognition-brain-frontend)
+
 [front end link](https://facedetection-bitsa.herokuapp.com)
+
 [backend link:](https://smart-brain-api-bitsa.herokuapp.com)
 
 ### c. JSON API
@@ -66,7 +71,8 @@ Bulk discount on ipad is applied. if user add more than 4 ipad in cart then the 
 ![alt text](https://github.com/devavratsingh/simple-checkout-api/blob/master/images/task-3-1.jpg  "Simple Checkout System Second: Task POSTMAN")
 ![alt text](https://github.com/devavratsingh/simple-checkout-api/blob/master/images/task-3-2.jpg "Simple Checkout System Second: Task Command Prompt")
 
-I have tested it on my digital ocean server too. Thanks to Digi-X team for giving me this opportunity.
+I have tested it on my digital ocean server too. Thanks to Digi-X team for giving me this opportunity. main code is implemented in [server.js](https://github.com/devavratsingh/simple-checkout-api/blob/master/server.js) file.
+
 
 
 
