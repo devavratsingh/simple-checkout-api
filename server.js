@@ -163,7 +163,7 @@ app.put('/checkout', (req, res) => {
 
 		scanned = () => {
 			console.log("SKU Scanned: "+db.total[0].totalsku);
-			console.log("Total expected: $"+db.total[0].totalVal+".00");
+			console.log("Total expected: $"+db.total[0].totalVal.toFixed(2));
 		}
 		scanned();
 	
