@@ -49,8 +49,8 @@ These files not only tested on localhost but also tested on my digital ocean ser
 
 * We're going to have a 3 for 2 deal on Apple TVs. For example, if you buy 3 units of Apple TVs, you will only pay for the price of 2 units.
 
-![alt text](https://github.com/devavratsingh/simple-checkout-api/blob/master/images/req-1-1.jpg  "Simple Checkout System First Task")
-![alt text](https://github.com/devavratsingh/simple-checkout-api/blob/master/images/req-1-2.jpg "Simple Checkout System First Task")
+![alt text](https://github.com/devavratsingh/simple-checkout-api/blob/master/images/req-1-1.jpg  "Simple Checkout System First Task POSTMAN")
+![alt text](https://github.com/devavratsingh/simple-checkout-api/blob/master/images/req-1-2.jpg "Simple Checkout System First Task Command Prompt")
 
 I have added three quantities together. but you can check it by adding single quantity 3 times. it show the price of 2 units.
 
