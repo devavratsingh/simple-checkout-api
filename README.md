@@ -22,11 +22,34 @@ app.post('/register', (req, res) => {
 	// code
 })
 ```
-a. (iii) & (iv) UPDATE & PUT:
+###a. (iii) & (iv) UPDATE & PUT:
 PUT is used to Update resourse. it will points to the exact location of the resourse.
 
 I have used a POSTMAN to test this API.
 ![alt text](https://github.com/devavratsingh/simple-checkout-api/blob/master/images/put-request.jpg "Put & Update Example")
+
+###b. We will use the password hash. 
+there are many hashing algorithms e.g MD5, SHA, bcrypt etc. they are really effective for password security.
+I have used in my project of face detection api. It is applied on two tables one is for user table where user registration details are saved & second one is login table where i have save hash password of user & there email. when user is signed in he will add there email & password which are secure by hash.
+here are the example github link of the project:
+[facedetection api server](https://github.com/devavratsingh/facerecognition-api-server)
+[facedetection frontend](https://github.com/devavratsingh/face-recognition-brain-frontend)
+[front end link](https://facedetection-bitsa.herokuapp.com)
+[backend link:](https://smart-brain-api-bitsa.herokuapp.com)
+
+###c. JSON API
+JSON API format is best to be returned by an API as a response. because JSON is easy in learning, it will support array, it simple & easy to implement. JSOn is shorter, quicker to read and write.
+In comparison of JSON, XML is more dificult to parse than JSON. APIs depends on easy & fast data exchanges. JSON fulfil these statements while XML is struggling to keep up.
+
+
+## Section 2: Simple Checkout System
+
+I have completed this checkout system with the test on POSTMAN software, & it fulfils the requirements described in your document file.
+
+
+
+
+
 
 
 
