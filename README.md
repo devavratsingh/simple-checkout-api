@@ -47,7 +47,8 @@ In comparison of JSON, XML is more dificult to parse than JSON. APIs depends on 
 I have completed this checkout system with the test on POSTMAN software, & it fulfils the requirements described in your document file. I have commented all steps to be easy to understand. 
 These files not only tested on localhost but also tested on my digital ocean server.
 
-* We're going to have a 3 for 2 deal on Apple TVs. For example, if you buy 3 units of Apple TVs, you will only pay for the price of 2 units
+* We're going to have a 3 for 2 deal on Apple TVs. For example, if you buy 3 units of Apple TVs, you will only pay for the price of 2 units.
+
 ![alt text](https://github.com/devavratsingh/simple-checkout-api/blob/master/images/req-1-1.jpg  "Simple Checkout System First Task")
 ![alt text](https://github.com/devavratsingh/simple-checkout-api/blob/master/images/req-1-2.jpg "Simple Checkout System First Task")
 
